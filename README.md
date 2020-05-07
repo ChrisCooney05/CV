@@ -65,10 +65,12 @@ I started with WBC as part time member of the warehouse team. Over the next 3 ye
 **Traveling around South-East Asia and Australia** (2013 – 2014) 
 
 **GNC Health Stores** (2012 - 2013)
+
 *Assistant Manager*
 I worked for GNC along side being a personal trainer, furthering my knowledge of health related product. my roles included: managing various HR requirements, maintaining stock levels, recording inventory, delivery’s and customer services inclusive of complaints and query handling.
 
 **Slaters Menswear** (2008 - 2012)
+
 *Assistant Manager*
 As the Assistant Manager I was predominately tasked with being the face of the store. I needed to develop strong relationships with customers to ensure repeat custom. Along side this Slaters offered free alterations, so I was to pin, measure and document any changes that need to be made accurately.
 
