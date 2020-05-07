@@ -1,16 +1,19 @@
 ## Chris Cooney
-***
-I'm a junior full stack developer in training filled with both excitement and caffeine.
 
-After spending the last 5 years working for a retail display and packaging company I was ready to make the jump into something new and exciting. My biggest motivators are seeing a project come to life and watching people interact with something I have helped develop, it gives me that little fist pump feeling and a satisfaction that can’t be described. 
+### A bit about me
 
-I have just embarked on arguably, one of the most exciting and scary times of my life studying with Makers Academy 
+I'm a junior full stack developer in training fuelled by both excitement and caffeine. self motivated and hard working with a thirst for knowledge.
+
+After spending the last 5 years working for a retail display and packaging company I was ready to take on the next big challenge. My biggest motivators are learning something new and seeing a project come to life. watching people interact with something I have helped develop gives me that little fist pump feeling and a satisfaction that can’t be described. 
+
+I consider myself a Jack of all trades but ready to become the master of one. 
+
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) |
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
 
@@ -29,33 +32,49 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April - August 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Queen Marys College - (2007-2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Sport BTEC National Diploma - DDM
+- Psychology AS Level         - B
+- Community and Higher Sports Leadership Award
+
+#### Bishop Challoner Secondary School - (2002-2007)
+
+11 GCSE at A-C grade
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Qualified personal trainer:
+- Level 2 Diploma Gym Instructor 			
+- Level 3 Diploma Personal Training 			
+- Level 3 General Practitioner Referral in Exercise Certificate 
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Wine Box Company T/A WBC LTD** (October 2014 - April 2020)    
+*Key Account Manager*  
+I started with WBC as part time member of the warehouse team. Over the next 3 years I worked myself through a number of rolls until I was promoted to Key Account Manager. I was responsible for working closely with clients, understanding briefs and delivering product that met quality, specification and budget. 
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Traveling around South-East Asia and Australia** (2013 – 2014) 
+
+**GNC Health Stores** (2012 - 2013)
+*Assistant Manager*
+I worked for GNC along side being a personal trainer, furthering my knowledge of health related product. my roles included: managing various HR requirements, maintaining stock levels, recording inventory, delivery’s and customer services inclusive of complaints and query handling.
+
+**Slaters Menswear** (2008 - 2012)
+*Assistant Manager*
+As the Assistant Manager I was predominately tasked with being the face of the store. I needed to develop strong relationships with customers to ensure repeat custom. Along side this Slaters offered free alterations, so I was to pin, measure and document any changes that need to be made accurately.
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- Gaming 
+- Cooking 
+- Sports (any and every sport, but mostly Golf and Aussie Rules Football) 
+- Reading
+- Gym
