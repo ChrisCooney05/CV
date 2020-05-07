@@ -8,7 +8,6 @@ After spending the last 5 years working for a retail display and packaging compa
 
 I consider myself a Jack of all trades but ready to become the master of one. 
 
-
 [Skills](#skills) | [Education](#education) | [Experience](#experience) |
 
 ## Skills
@@ -58,20 +57,18 @@ Qualified personal trainer:
 
 ## Experience
 
-**Wine Box Company T/A WBC LTD** (October 2014 - April 2020)    
-*Key Account Manager*  
+**Key Account Manager - Wine Box Company T/A WBC LTD** (October 2014 - April 2020)    
+  
 I started with WBC as part time member of the warehouse team. Over the next 3 years I worked myself through a number of rolls until I was promoted to Key Account Manager. I was responsible for working closely with clients, understanding briefs and delivering product that met quality, specification and budget. 
 
 **Traveling around South-East Asia and Australia** (2013 – 2014) 
 
-**GNC Health Stores** (2012 - 2013)
+**Assistant Manager - GNC Health Stores** (2012 - 2013)
 
-*Assistant Manager*
 I worked for GNC along side being a personal trainer, furthering my knowledge of health related product. my roles included: managing various HR requirements, maintaining stock levels, recording inventory, delivery’s and customer services inclusive of complaints and query handling.
 
-**Slaters Menswear** (2008 - 2012)
+**Assistant Manager - Slaters Menswear** (2008 - 2012)
 
-*Assistant Manager*
 As the Assistant Manager I was predominately tasked with being the face of the store. I needed to develop strong relationships with customers to ensure repeat custom. Along side this Slaters offered free alterations, so I was to pin, measure and document any changes that need to be made accurately.
 
 ## Hobbies
