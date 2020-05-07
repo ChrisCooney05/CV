@@ -2,32 +2,16 @@
 
 ### A bit about me
 
-I'm a junior full stack developer in training fuelled by both excitement and caffeine. self motivated and hard working with a thirst for knowledge.
-
-After spending the last 5 years working for a retail display and packaging company I was ready to take on the next big challenge. My biggest motivators are learning something new and seeing a project come to life. watching people interact with something I have helped develop gives me that little fist pump feeling and a satisfaction that can’t be described. 
-
-I consider myself a Jack of all trades but ready to become the master of one. 
+I'm a junior full stack developer in training fuelled by both excitement and caffeine. After spending the last 5 years working for a retail display and packaging company I started to understand that I needed a new challenge. I started coding to pass time on my morning commutes too and from London, after a while I realised that I actually really enjoyed what I was learning, this is when I looked to Makers to start my new life of code. 
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) |
 
 ## Skills
 
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- **Team player** - I have played all types team sports since before I can remember. Because of this I feel at home being in a team of any size in any capacity, whether that is taking a back seat and getting my head down, helping others or being at the front and leading. 
 
-#### This Skill
+- **Hard working** - I am not afraid to get stuck in. Once I start something, no mater how difficult or time consuming, I mean to finish and give my absolute best. 
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
