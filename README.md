@@ -1,6 +1,12 @@
-## Your Name
+## Chris Cooney
+***
+I'm a junior full stack developer in training filled with both excitement and caffeine.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+After spending the last 5 years working for a retail display and packaging company I was ready to make the jump into something new and exciting. My biggest motivators are seeing a project come to life and watching people interact with something I have helped develop, it gives me that little fist pump feeling and a satisfaction that can’t be described. 
+
+I have just embarked on arguably, one of the most exciting and scary times of my life studying with Makers Academy 
+
+[Skills](#skills) | [Education](#education) | [Experience](#experience) |
 
 ## Skills
 
