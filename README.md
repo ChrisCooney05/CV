@@ -19,8 +19,8 @@ I'm a junior full stack developer in training fuelled by both excitement and caf
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Node
+- RSpec, Jasmine, Jest
 
 #### Queen Marys College - (2007-2009)
 
