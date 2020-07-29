@@ -1,8 +1,7 @@
 ## Chris Cooney
 
 ### A bit about me
-
-I'm a junior full stack developer in training fuelled by both excitement and caffeine. After spending the last 5 years working for a retail display and packaging company I started to understand that I needed a new challenge. I started coding to pass time on my morning commutes too and from London, after a while I realised that I actually really enjoyed what I was learning, this is when I looked to Makers to start my new life of code. 
+After spending the last 5 years working for a retail display and packaging company I started to understand that I needed a new challenge. I started coding to pass time on my morning commutes to and from London, after a while I realised that I actually really enjoyed what I was learning, this is when I looked to Makers to start my new life of code. 
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) |
 
@@ -19,8 +18,8 @@ I'm a junior full stack developer in training fuelled by both excitement and caf
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, Node
-- RSpec, Jasmine, Jest
+- Ruby, Rails, JavaScript, Node, React, Express
+- RSpec, Jasmine, Jest, Capybara
 
 #### Queen Marys College - (2007-2009)
 
