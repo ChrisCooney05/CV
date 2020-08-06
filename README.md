@@ -1,8 +1,8 @@
 ## Chris Cooney
 
 ### A bit about me
-Fun fact, after years of wanting to learn how to code, but telling myself "programming is magic and there is no way you could understand it" I decided, I fancy learning me some of this magic, loved it, quit my job of 5 years, joined [Makers](https://makers.tech/) and here I am fresh of the press a software developer!
-Two things are nearly always on my mind. What shall I learn next? and what shall I have for dinner? one less important than the other, but both important to understand how my mind works. 
+Fun fact, after years of wanting to learn how to code, but telling myself "programming is magic and there is no way you could understand it" I decided, I fancy learning me some of this magic, loved it, quit my job of 5 years, joined [Makers](https://makers.tech/) and here I am fresh of the press a software developer!<br/>
+Two things are nearly always on my mind. What shall I learn next? and what shall I have for dinner? one less important than the other, but both important to understand how my mind works.<br/> 
 I want to find a position that will help answer one of those questions and offer a place where I can learn, grow and blossom into the developer im sure I can become.
 
 [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | 
