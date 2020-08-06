@@ -1,42 +1,11 @@
 ## Chris Cooney
 
 ### A bit about me
-After spending the last 5 years working for a retail display and packaging company I started to understand that I needed a new challenge. I started coding to pass time on my morning commutes to and from London, after a while I realised that I actually really enjoyed what I was learning, this is when I looked to Makers to start my new life of code. 
+Fun fact, after years of wanting to learn how to code, but telling myself "programming is magic and there is no way you could understand it" I decided, I fancy learning me some of this magic, loved it, quit my job of 5 years, joined [Makers](https://makers.tech/) and here I am fresh of the press a software developer!
+Two things are nearly always on my mind. What shall I learn next? and what shall I have for dinner? one less important than the other, but both important to understand how my mind works. 
+I want to find a position that will help answer one of those questions and offer a place where I can learn, grow and blossom into the developer im sure I can become.
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) |
-
-## Skills
-
-- **Team player** - I have played all types team sports since before I can remember. Because of this I feel at home being in a team of any size in any capacity, whether that is taking a back seat and getting my head down, helping others or being at the front and leading. 
-
-- **Hard working** - I am not afraid to get stuck in. Once I start something, no mater how difficult or time consuming, I mean to finish and give my absolute best. 
-
-
-## Education
-
-#### Makers Academy (April - August 2020)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, Node, React, Express
-- RSpec, Jasmine, Jest, Capybara
-
-#### Queen Marys College - (2007-2009)
-
-- Sport BTEC National Diploma - DDM
-- Psychology AS Level         - B
-- Community and Higher Sports Leadership Award
-
-#### Bishop Challoner Secondary School - (2002-2007)
-
-11 GCSE at A-C grade
-
-#### Any other qualifications
-
-Qualified personal trainer:
-- Level 2 Diploma Gym Instructor 			
-- Level 3 Diploma Personal Training 			
-- Level 3 General Practitioner Referral in Exercise Certificate 
+[Experience](#experience) | [Skills](#skills) | [Education](#education) | 
 
 ## Experience
 
@@ -54,9 +23,34 @@ I worked for GNC along side being a personal trainer, furthering my knowledge of
 
 As the Assistant Manager I was predominately tasked with being the face of the store. I needed to develop strong relationships with customers to ensure repeat custom. Along side this Slaters offered free alterations, so I was to pin, measure and document any changes that need to be made accurately.
 
+## Skills
+
+- **Team player** - I have played all types team sports since before I can remember, because of this I feel at home being in a team of any size in any capacity. Whether that is taking a back seat and getting my head down, helping others or being at the front and leading. 
+
+- **Fast learner/ Adaptable** - Over the last 3 months with Makers I have had to learn and use a number of different languages, frameworks and concepts. Not only this, but the languages and frameworks changed weekly some times even at different levels of software development. Because of this, I am confident that I can learn new skills and adapt to any changes quickly and effectively.
+
+- **Problem solver** - In my spare time I enjoy gaming, especially games that have puzzle elements to them. Because of this I feel like I have spent the best part of 18 years training my problem solving skills. I often think outside of the box for solutions and love to find ways to make solutions as optimal as possible
+
+
+## Education
+
+#### Makers Academy (April - August 2020)
+- OOP, TDD, MVC, DDD
+- Agile, XP
+- Ruby, Rails, JavaScript, Node, React, Express
+- RSpec, Jasmine, Jest, Capybara
+
+#### Queen Marys College - (2007-2009)
+- Sport BTEC National Diploma - DDM
+- Psychology AS Level         - B
+- Community and Higher Sports Leadership Award
+
+#### Bishop Challoner Secondary School - (2002-2007)
+- 11 GCSE at A-C grade
+
 ## Hobbies
 - Gaming 
 - Cooking 
-- Sports (any and every sport, but mostly Golf and Aussie Rules Football) 
+- Playing sports
 - Reading
 - Gym
