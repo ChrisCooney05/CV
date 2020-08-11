@@ -1,11 +1,13 @@
 ## Chris Cooney
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | 
 
 ### A bit about me
 Fun fact, after years of wanting to learn how to code, but telling myself "programming is magic and there is no way you could understand it" I decided, I fancy learning me some of this magic, loved it, quit my job of 5 years, joined [Makers](https://makers.tech/) and here I am fresh of the press a software developer!<br/>
-Two things are nearly always on my mind. What shall I learn next? and what shall I have for dinner? one less important than the other, but both important to understand how my mind works.<br/> 
-I want to find a position that will help answer one of those questions and offer a place where I can learn, grow and blossom into the developer im sure I can become.
-
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | 
+Two things are nearly always on my mind. What shall I learn next? and what shall I have for dinner? one less important than the other, but both important to understand how my mind works.<br/>
+I want to find a position that will help answer one of those questions and offer a place where I can learn, grow and blossom into the developer im sure I can become.<br/><br/>
+**Why should you employ me?**<br/><br/> 
+I have proven that I'm both driven and a fast learner by moving away from my job and learning a number of different languages, frameworks and concepts in 12 weeks, to the level that I am confident I can produce quality applications.<br/>
+I'm also confident in my ability to learn new languages, frameworks and procedures quickly and effectively should it be needed.
 
 ## Projects
 
@@ -17,7 +19,7 @@ I want to find a position that will help answer one of those questions and offer
 
 ## Experience
 
-**Key Account Manager - Wine Box Company T/A WBC LTD** (October 2014 - April 2020)    
+**Key Account Manager - Wine Box Company T/A WBC LTD** (October 2014 - April 2020)<br/>
 •	Promoted quickly from part time warehouse staff to full time key account manager <br/>
 •	Able to quickly translate customer briefs into product specifications and convert into orders<br/>
 •	Able to build strong relationships to ensure repeat custom <br/>
@@ -26,10 +28,10 @@ I want to find a position that will help answer one of those questions and offer
 
 **Traveling around South-East Asia and Australia** (2013 – 2014) 
 
-**Free-lance Personal Trainer** (2012 – 2013)
+**Free-lance Personal Trainer** (2012 – 2013)<br/>
 •	Completed a course in Bio-Signature
 
-**Assistant Manager - Slaters Menswear** (2008 - 2012)
+**Assistant Manager - Slaters Menswear** (2008 - 2012)<br/>
 •	Promoted quickly from part-time weekend sales assistant to Assistant Manager<br/>
 •	Provided exceptional levels of customer service while assessing the needs of each customer<br/>
 •	Tailoring and altering clothing according to customer requirements<br/>
