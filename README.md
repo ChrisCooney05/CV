@@ -18,18 +18,22 @@ I want to find a position that will help answer one of those questions and offer
 ## Experience
 
 **Key Account Manager - Wine Box Company T/A WBC LTD** (October 2014 - April 2020)    
-  
-I started with WBC as part time member of the warehouse team. Over the next 3 years I worked myself through a number of rolls until I was promoted to Key Account Manager. I was responsible for working closely with clients, understanding briefs and delivering product that met quality, specification and budget. 
+•	Promoted quickly from part time warehouse staff to full time key account manager <br/>
+•	Able to quickly translate customer briefs into product specifications and convert into orders<br/>
+•	Able to build strong relationships to ensure repeat custom <br/>
+•	Strong problem-solving skills developed as working with foreign manufacturing could often cause delays <br/>
+
 
 **Traveling around South-East Asia and Australia** (2013 – 2014) 
 
-**Assistant Manager - GNC Health Stores** (2012 - 2013)
-
-I worked for GNC along side being a personal trainer, furthering my knowledge of health related product. my roles included: managing various HR requirements, maintaining stock levels, recording inventory, delivery’s and customer services inclusive of complaints and query handling.
+**Free-lance Personal Trainer** (2012 – 2013)
+•	Completed a course in Bio-Signature
 
 **Assistant Manager - Slaters Menswear** (2008 - 2012)
+•	Promoted quickly from part-time weekend sales assistant to Assistant Manager<br/>
+•	Provided exceptional levels of customer service while assessing the needs of each customer<br/>
+•	Tailoring and altering clothing according to customer requirements<br/>
 
-As the Assistant Manager I was predominately tasked with being the face of the store. I needed to develop strong relationships with customers to ensure repeat custom. Along side this Slaters offered free alterations, so I was to pin, measure and document any changes that need to be made accurately.
 
 ## Skills
 
