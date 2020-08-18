@@ -4,7 +4,7 @@
 ### A bit about me
 As you will see from my job history, I have spent most of my working life trying to find the right career for me, until now. After years of wanting to learn how to code, but telling myself "programming is magic and there is no way I could understand it" I decided, I fancy learning me some of this magic, downloaded an app called Mimo to pick up some basic code, loved it, quit my job of 5 years, joined [Makers](https://makers.tech/) and here I am fresh of the press a software developer!<br/><br/>
 **Why I'm not your standard developer**<br/><br/> 
-I bring experience from a number of different jobs with me, managing staff, picking products, working with client to achieve their goals, developing products or helping people look good on there wedding day. Even though I'm just starting this journey I feel that I have a strong technical mind and ability to pick new tech up quickly. Finally, programming is no longer a career choice but a passion for me, my [github profile](https://github.com/ChrisCooney05) will prove this and show my commitment for constantly looking for new projects and things to learn<br/><br/>
+I bring a wealth of experience from a number of different jobs with me, from managing staff, picking products, working with clients to achieve their goals, developing products or helping people look good on there wedding day. Even though I'm just starting this journey I feel that I have a strong technical mind and ability to pick new tech up quickly. Finally, programming is no longer a career choice but a passion for me, my [github profile](https://github.com/ChrisCooney05) will prove this and show my commitment for constantly looking for new projects and things to learn<br/><br/>
 **Why should you employ me?**<br/><br/> 
 I have proven that I'm both driven and a fast learner by moving away from a stable job and learning a number of different languages, frameworks and concepts in 12 weeks, to the level that I am confident I can produce quality applications.<br/>
 I'm also confident in my ability to learn new languages, frameworks and procedures quickly and effectively should it be needed.
@@ -13,7 +13,7 @@ I'm also confident in my ability to learn new languages, frameworks and procedur
 
 | Project | About |
 |-|-|
-| [Portfolio Site](https://github.com/ChrisCooney05/portfolio_site) | Deployed [here](https://chriscooney.netlify.app/). Scalable portfolio site to help better show of some of my projects <br/><br/> **Tech used** <br/> JavaScript, Node, React, Tachyons, CSS|
+| [Portfolio Site](https://github.com/ChrisCooney05/portfolio_site) | Deployed [here](https://chriscooney.netlify.app/). Portfolio site to help better show of some of my projects <br/><br/> **Tech used** <br/> JavaScript, Node, React, Tachyons, CSS|
 | [Node Bank](https://github.com/ChrisCooney05/bank_tech_test) | Tech test with a strong focus on clean, readable code with good test coverage and quality<br/><br/> **Tech used** <br/>  JavaScript, Node, Jest |
 | [RoboFriends](https://github.com/ChrisCooney05/robofriends)  | Deployed [here](https://chriscooney05.github.io/robofriends/). Side project developed during the makers course to explore react and API calls <br/><br/> **Tech used** <br/>   JavaScript, Node, React, Tachyons, CSS |
 | [CodeQuest()](https://github.com/ChrisCooney05/codeQuest)    | Deployed [here](https://lets-codequest.netlify.app/). Final Makers project developing a game for children to develop soft developer skills <br/><br/> **Tech used** <br/>  JavaScript, Node, React, Redux, Tachyons, CSS, Jest, Travis |
