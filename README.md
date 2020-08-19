@@ -4,7 +4,7 @@
 ### A bit about me
 As you will see from my job history, I have spent most of my working life trying to find the right career for me, until now. After years of wanting to learn how to code, but telling myself "programming is magic and there is no way I could understand it" I decided, I fancy learning me some of this magic, downloaded an app called Mimo to pick up some basic code, loved it, quit my job of 5 years, joined [Makers](https://makers.tech/) and here I am fresh of the press, a software developer!<br/><br/>
 **Why I'm not your standard developer**<br/><br/> 
-I bring a wide spectrum of experience with me, from managing staff, picking products, working with clients to achieve their goals, developing products or helping people look good on there wedding day. This diverse background has helped me built Great people skills, ability to work in all kinds of situations and ability to quickly adapt. Programming is no longer a career choice but a passion for me, my [github profile](https://github.com/ChrisCooney05) will prove this and show my commitment to constantly looking for new projects and things to learn<br/><br/>
+I bring a wide spectrum of experience with me, from managing staff, picking products, working with clients to achieve their goals, developing products or helping people look good on there wedding day. This diverse background has helped me built great people skills, ability to work in all kinds of situations and ability to quickly adapt. Programming is no longer a career choice but a passion for me, my [github profile](https://github.com/ChrisCooney05) will prove this and show my commitment to constantly looking for new projects and things to learn<br/><br/>
 **Why should you employ me?**<br/><br/> 
 I have proven that I'm driven, have a strong technical mind and a fast learner by moving away from a stable job and learning a number of different languages, frameworks and concepts in 12 weeks, to the level that I am confident I can produce quality applications.<br/>
 I'm also confident in my ability to learn new languages, frameworks and procedures quickly and effectively should it be needed.
@@ -57,7 +57,7 @@ I'm also confident in my ability to learn new languages, frameworks and procedur
 
 ## Skills
 
-- **Team player** - I have played all types team sports since before I can remember and was even fortunate enough to play AFL for England and Great Britain, because of this I feel at home being in a team of any size in any capacity. Whether that is taking a back seat and getting my head down, helping others or being at the front and leading. 
+- **Team player** - I have played all types of team sports since before I can remember and was even fortunate enough to play AFL for England and Great Britain, because of this I feel at home being in a team of any size in any capacity. Whether that is taking a back seat and getting my head down, helping others or being at the front and leading. 
 
 - **Fast learner/ Adaptable** - Over the last 3 months with Makers I have had to learn and use a number of different languages, frameworks and concepts. Not only this, but the languages and frameworks changed weekly sometimes even at different levels of software development. Because of this, I am confident that I can learn new skills and adapt to any changes quickly and effectively.
 
@@ -67,9 +67,9 @@ I'm also confident in my ability to learn new languages, frameworks and procedur
 ## Education
 
 #### Makers Academy (April - August 2020)
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, DDD, SOLID
 - Agile, XP
-- Pair programming, version control, Git
+- Pair programming, version control
 
 #### Queen Marys College - (2007-2009)
 - Sport BTEC National Diploma - DDM
