@@ -13,6 +13,7 @@ I'm also confident in my ability to learn new languages, frameworks and procedur
 
 | Project | About |
 |-|-|
+| [Facial Recognition](https://github.com/ChrisCooney05/face_recognition_frontend) | Still to be completed. Back end for this project can be seen [here](https://github.com/ChrisCooney05/face_recognition_backend)|
 | [Portfolio Site](https://github.com/ChrisCooney05/portfolio_site) | Deployed [here](https://chriscooney.netlify.app/). Portfolio site to help better show of some of my projects <br/><br/> **Tech used** <br/> JavaScript, Node, React, Tachyons, CSS|
 | [Node Bank](https://github.com/ChrisCooney05/bank_tech_test) | Tech test with a strong focus on clean, readable code with good test coverage and quality<br/><br/> **Tech used** <br/>  JavaScript, Node, Jest |
 | [RoboFriends](https://github.com/ChrisCooney05/robofriends)  | Deployed [here](https://chriscooney05.github.io/robofriends/). Side project developed during the makers course to explore react and API calls <br/><br/> **Tech used** <br/>   JavaScript, Node, React, Tachyons, CSS |
