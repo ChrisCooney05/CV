@@ -23,8 +23,7 @@ I'm also confident in my ability to learn new languages, frameworks and procedur
 •	**Languages** | JavaScript | HTML | CSS | Ruby | <br/>
 •	**Testing** | Jest | Jasmine | Capybara | RSpec <br/>
 •	**Frameworks & CMSs** | React | NodeJS | Express | Rails <br/>
-•	**Tools & Databases** | Redux | PostgreSQL <br/>
-•	**CI & CD** | TravisCI | Heroku | Netlify <br/>
+•	**CI / CD & Databases** | TravisCI | Heroku | Netlify | PostgreSQL <br/>
 
 ## Experience
 
