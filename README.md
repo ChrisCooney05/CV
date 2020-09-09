@@ -20,7 +20,7 @@ I'm also confident in my ability to learn new languages, frameworks, and procedu
 | [CodeQuest()](https://github.com/ChrisCooney05/codeQuest)    | Deployed [here](https://lets-codequest.netlify.app/). Final Makers project developing a game for children to develop soft developer skills <br/><br/> **Tech used** <br/>  JavaScript, Node, React, Redux, Tachyons, CSS, Jest, Travis |
 
 ## Technologies
-•	**Languages** | JavaScript | TypeScript | HTML | CSS | Ruby | <br/>
+•	**Languages** | JavaScript | TypeScript | Python | HTML | CSS | Ruby | <br/>
 •	**Testing** | Jest | Jasmine | Capybara | RSpec <br/>
 •	**Frameworks & CMSs** | React | NodeJS | Express | Rails <br/>
 •	**CI / CD & Databases** | TravisCI | Heroku | Netlify | PostgreSQL <br/>
