@@ -1,5 +1,5 @@
 ## Chris Cooney
-[Portfolio Site](https://chriscooney.netlify.app/) | [Projects](#projects) | [Technologies](#technologies) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | 
+[Portfolio Site](https://chriscooney.netlify.app/) | [Technologies](#technologies) | [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | 
 
 ### A bit about me
 After years of wanting to learn how to code but not sure how to go about it, I decided quit my job of 5 years, joined [Makers](https://makers.tech/) ( a 12 week intensive Bootcamp ) and here I am fresh off the press, a full-stack developer!<br/><br/>
@@ -8,6 +8,12 @@ I bring a wide spectrum of experience with me, from managing staff, picking prod
 **Why should you employ me?**<br/><br/> 
 I have proven that I'm driven, have a strong technical mind and a fast learner by moving away from a stable job and learning several different languages, frameworks, and concepts in 12 weeks, to the level that I am confident I can produce quality applications.<br/>
 I'm also confident in my ability to learn new languages, frameworks, and procedures quickly and effectively should it be needed.
+
+## Technologies
+•	**Languages** | JavaScript | TypeScript | Python | HTML | CSS | Ruby | <br/>
+•	**Testing** | Jest | Jasmine | Capybara | RSpec <br/>
+•	**Frameworks & CMSs** | React | NodeJS | Express | Rails <br/>
+•	**CI / CD & Databases** | TravisCI | Heroku | Netlify | PostgreSQL <br/>
 
 ## Projects
 
@@ -18,12 +24,6 @@ I'm also confident in my ability to learn new languages, frameworks, and procedu
 | [Node Bank](https://github.com/ChrisCooney05/bank_tech_test) | Tech test with a strong focus on clean, readable code with good test coverage and quality<br/><br/> **Tech used** <br/>  JavaScript, Node, Jest |
 | [RoboFriends](https://github.com/ChrisCooney05/robofriends)  | Deployed [here](https://chriscooney05.github.io/robofriends/). Side project developed during the makers course to explore react and API calls <br/><br/> **Tech used** <br/>   JavaScript, Node, React, Tachyons, CSS |
 | [CodeQuest()](https://github.com/ChrisCooney05/codeQuest)    | Deployed [here](https://lets-codequest.netlify.app/). Final Makers project developing a game for children to develop soft developer skills <br/><br/> **Tech used** <br/>  JavaScript, Node, React, Redux, Tachyons, CSS, Jest, Travis |
-
-## Technologies
-•	**Languages** | JavaScript | TypeScript | Python | HTML | CSS | Ruby | <br/>
-•	**Testing** | Jest | Jasmine | Capybara | RSpec <br/>
-•	**Frameworks & CMSs** | React | NodeJS | Express | Rails <br/>
-•	**CI / CD & Databases** | TravisCI | Heroku | Netlify | PostgreSQL <br/>
 
 ## Experience
 
