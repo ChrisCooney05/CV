@@ -10,10 +10,18 @@ I have proven that I'm driven, have a strong technical mind and a fast learner b
 I'm also confident in my ability to learn new languages, frameworks, and procedures quickly and effectively should it be needed.
 
 ## Technologies
-•	**Languages** | JavaScript | TypeScript | Python | HTML | CSS | Ruby | <br/>
-•	**Testing** | Jest | Jasmine | Capybara | RSpec <br/>
-•	**Frameworks & CMSs** | React | NodeJS | Express | Rails <br/>
-•	**CI / CD & Databases** | TravisCI | Heroku | Netlify | PostgreSQL <br/>
+**What I’m currently using** <br/>
+- **Languages** JavaScript/TypeScript | GraphQL | HTML | CSS  <br/>
+- **Testing** | Jest | Cypress <br/>
+- **Frameworks** | React | NodeJS | Express  <br/>
+- **CI / CD & Databases** | TravisCI | Heroku | Netlify | PostgreSQL | MongoDB <br/>
+<br/>
+
+**What I have used** <br/>
+- **Languages** | Python | Java | Ruby | C <br/>
+- **Testing** | Jasmine | RSpec | Capybara | Junit <br/>
+- **Frameworks** | Sinatra | Rails  <br/>
+
 
 ## Projects
 
@@ -28,11 +36,10 @@ I'm also confident in my ability to learn new languages, frameworks, and procedu
 ## Experience
 
 **Key Account Manager - Wine Box Company T/A WBC LTD** (October 2014 - April 2020)<br/>
-•	Promoted quickly from part-time warehouse staff to full-time key account manager <br/>
-•	Able to quickly translate customer briefs into product specifications and convert into orders<br/>
-•	Able to build strong relationships to ensure repeat custom <br/>
-•	Developed strong problem-solving skills as working with foreign manufacturing could often cause delays <br/>
-
+•	Promoted quickly from part time warehouse staff to full time key account manager <br/>
+•	Able to take a high level customer brief and through meetings, asking the right questions, correct planning and feedback, produce a product that matched the clients’ spec <br/>
+•	Using interpersonal skills, I was able to build strong relationships with my clients to ensure repeat enquiries and custom <br/>
+•	Developed strong problem-solving skills and an ability to foresee and plan for issues as working with foreign manufacturing could often cause delays, sometimes very close to the deadline date. In these cases, I would always endeavour to deliver a solution not a problem to the client.<br/>
 
 **Traveling around South-East Asia and Australia** (2013 – 2014) <br/>
 •	Worked in a number of hostels/bars across Asia <br/>
