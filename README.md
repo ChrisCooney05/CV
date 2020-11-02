@@ -2,7 +2,7 @@
 [Portfolio Site](https://chriscooney.netlify.app/) | [Technologies](#technologies) | [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | 
 
 ### A bit about me
-After years of wanting to learn how to code but not sure how to go about it, I decided quit my job of 5 years, joined [Makers](https://makers.tech/) ( a 12 week intensive Bootcamp ) and here I am fresh off the press, a full-stack developer!<br/><br/>
+Throughout my working career I have done many things, but never really felt like I had found the job where I belong. One day on the way to work I started to play with an app called Sololearn and realised, not only did I enjoy software development but that it was going to be the career where I belong. I knew I needed to make a change so decided to put myself through a 3-month bootcamp with a company called [Makers](https://makers.tech/) where the focus was on best engineering practices and learning how to learn over just learning different languages. <br/><br/>
 **Why I'm not your standard developer**<br/><br/> 
 I bring a wide spectrum of experience with me, from managing staff, picking products, working with clients to achieve their goals, developing products, or helping people look good on there wedding day. This diverse background has helped me built great people skills, the ability to work in all kinds of situations, and the ability to quickly adapt. Programming is no longer a career choice but a passion for me, my [github profile](https://github.com/ChrisCooney05) will prove this and show my commitment to constantly looking for new projects and things to learn<br/><br/>
 **Why should you employ me?**<br/><br/> 
